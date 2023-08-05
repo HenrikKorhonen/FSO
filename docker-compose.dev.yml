@@ -1,0 +1,15 @@
+services:
+ server:
+   build:
+     context: .
+   ports:
+     - 3000:3000
+     - 8000:8000
+     - 8080:8080
+     - 9229:9229
+   environment:
+     - SERVER_PORT=8080
+     - DATABASE_CONNECTIONSTRING=mongodb://mongo:27017/notes
+   volumes:
+     - ./:/code
+   command: npm run debug
