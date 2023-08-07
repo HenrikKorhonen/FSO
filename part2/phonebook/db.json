@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "adgkngasn",
+      "number": "2095881",
+      "id": 4
+    },
+    {
+      "name": "Moikku Moi",
+      "number": "03252595",
+      "id": 5
+    },
+    {
+      "name": "Moikku Moikka",
+      "number": "03252595",
+      "id": 6
+    },
+    {
+      "name": "Moikku Moikka1",
+      "number": "03252595",
+      "id": 7
+    },
+    {
+      "name": "TEsto testi",
+      "number": "13+5858",
+      "id": 8
+    }
+  ]
+}
